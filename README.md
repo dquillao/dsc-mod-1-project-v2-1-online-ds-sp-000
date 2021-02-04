@@ -22,12 +22,10 @@ Microsoft announced that they are entering the movie industry and created a new 
 3. How much should Microsoft budget for higher ratings?
 4. What is the most profitable movie length?
 
-## Files
+## Applicable Files
 1. zippedData: collection of data provided for this project
 2. EDA 1 and EDA 2: drafts of EDA
 3. student.ipynb: technical notebook
 4. presentation.pdf: presentation slides for non-technical stakeholders
-5. CONTRIBUTING.md
-6. LICENSE.md
-7. module_project_rubric.pdf
-8. README.md
+5. module_project_rubric.pdf
+6. README.md
